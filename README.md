@@ -17,5 +17,5 @@ Step 2:
       flatpak install org.gnome.Boxes.flatpakref
       
       
-![image](https://user-images.githubusercontent.com/120317751/223184604-f1288a40-0486-4906-bcb8-4644d1abaa15.png)
+![Screenshot from 2023-03-06 22-56-14](https://user-images.githubusercontent.com/120317751/223185300-06f39805-ecd4-4886-97e1-98064c208dc1.png)
       
