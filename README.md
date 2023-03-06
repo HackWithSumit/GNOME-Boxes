@@ -6,4 +6,10 @@ GNOME: The Free Software Desktop Project . Boxes is an application that gives yo
 <br>
 Installation Guide:
 <br>
-Step 1: Download File: 
+Step 1: Download File: https://github.com/HackWithSumit/GNOME-Boxes/releases/download/GNOME-Boxes/org.gnome.Boxes.flatpakref
+
+<br>
+
+Step 2: 
+
+      flatpak install org.gnome.Boxes.flatpakref
